@@ -1,0 +1,14 @@
+{
+  "name": "async-script-loader",
+  "version": "1.0.0",
+  "description": "Async script loader for client environments",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alejofernandez/async-script-loader.git"
+  },
+  "author": "Alejo Fernandez",
+  "license": "MIT"
+}
